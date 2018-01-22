@@ -1,0 +1,25 @@
+
+{
+  "short_name": "TryManifest",
+  "name": "Prova Manifest",
+  "display": "standalone",
+  "background_color": "#2196F3",
+  "icons": [
+    {
+      "src": "images/icon_48x48.png",
+      "type": "image/png",
+      "sizes": "48x48"
+    },
+    {
+      "src": "images/icon_96x96.png",
+      "type": "image/png",
+      "sizes": "96x96"
+    },
+    {
+      "src": "images/icon_192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ],
+  "start_url": "index.html"
+}
